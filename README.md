@@ -11,8 +11,8 @@ Pour host une partie, vous devez faire un git clone du serveur (Des versions de 
 - Lancez le serveur suivant votre configuration (windows -> EcoServer.exe, Linux -> EcoServer)
 - Pour un serveur sous linux certaines commandes en plus peuvent être nécessaires pour lancer le jeu (aller voir le doc fourni sur le site play.eco )
 - **Les paramètres du serveur ne devront en aucun cas être modifiés par vous-même. Si vous avez une demande ou suggestions, faites m'en part.**
-- Vous pouvez maintenant vous connecter au serveur via le jeu ECO </span>
-
+- Vous pouvez maintenant vous connecter au serveur via le menu "Vos mondes -> LAN -> *le nom de votre PC*" sur le jeu ECO 
+- 
 # Comment jouer avec ses amis
 - Pour les personnes qui veulent jouer avec vous, elles peuvent vous rejoindre directement si vous êtes amis sur steam (bouton "Rejoindre la partie" en cliquant sur votre profil)
 
