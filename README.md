@@ -18,8 +18,8 @@ Pour host une partie, vous devez faire un git clone du serveur (Des versions de 
 
 # Quelque règle en plus
 - Ce serveur est avant tout là pour appréhender les nouveautés des mises à jour, pour pourquoi pas plus tard avoir un vrai serveur de jeu
-- **Ne détruisez pas les bâtiments déjà construits ! **
-- **Nous sommes dans un système communiste pour l'instant. Donc ma maison est aussi ta maison. L'attribution d'une parcelle personnelle est formellement interdite sinon Goulag ! **
+- **Ne détruisez pas les bâtiments déjà construits !**
+- **Nous sommes dans un système communiste pour l'instant. Donc ma maison est aussi ta maison. L'attribution d'une parcelle personnelle est formellement interdite sinon Goulag !**
 - Une économie pourra à terme être construite mais on verra ça plus tard
 - Peut-être qu'on évoluera vers un système capitaliste/libéral mais ce n'est pas le but du serveur 
 
