@@ -5,16 +5,18 @@
 ## 4 - Ne mettez jamais de fichiers temporaire sur le git (c'est pas propre et ça peut causer des problèmes) 
 
 # Comment Host une partie
-
 Pour host une partie, vous devez faire un git clone du serveur (Des versions de Git pour windows sont disponibles)
 - Une fois le projet clone, faites un git pull (on ne sait jamais)
 - Lancez le serveur suivant votre configuration (windows -> EcoServer.exe, Linux -> EcoServer)
 - Pour un serveur sous linux certaines commandes en plus peuvent être nécessaires pour lancer le jeu (aller voir le doc fourni sur le site play.eco )
 - **Les paramètres du serveur ne devront en aucun cas être modifiés par vous-même. Si vous avez une demande ou suggestions, faites m'en part.**
 - Vous pouvez maintenant vous connecter au serveur via le jeu ECO </span>
-- 
+
 # Comment jouer avec ses amis
 - Pour les personnes qui veulent jouer avec vous, elles peuvent vous rejoindre directement si vous êtes amis sur steam (bouton "Rejoindre la partie" en cliquant sur votre profil)
+
+# Comment push sa sauvegarde
+Une fois votre partie fini et le serveur éteint de manière non brutale (il faut qu'il puisse sauvegardé). Vous devrez push via l'interface github desktop ou autre, les fichiers **Game.db** et **Game.eco**. Seuls ces deux fichiers sont nécessaires pour transférer votre sauvegarde.
 
 # Quelques règle en plus
 - Ce serveur est avant tout là pour appréhender les nouveautés des mises à jour, pour pourquoi pas plus tard avoir un vrai serveur de jeu
