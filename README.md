@@ -16,7 +16,7 @@ Pour host une partie, vous devez faire un git clone du serveur (Des versions de 
 # Comment jouer avec ses amis
 - Pour les personnes qui veulent jouer avec vous, elles peuvent vous rejoindre directement si vous êtes amis sur steam (bouton "Rejoindre la partie" en cliquant sur votre profil)
 
-# Quelque règle en plus
+# Quelques règle en plus
 - Ce serveur est avant tout là pour appréhender les nouveautés des mises à jour, pour pourquoi pas plus tard avoir un vrai serveur de jeu
 - **Ne détruisez pas les bâtiments déjà construits !**
 - **Nous sommes dans un système communiste pour l'instant. Donc ma maison est aussi ta maison. L'attribution d'une parcelle personnelle est formellement interdite sinon Goulag !**
