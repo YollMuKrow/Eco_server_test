@@ -10,16 +10,16 @@ Pour host une partie, vous devez faire un git clone du serveur (Des versions de 
 - Une fois le projet clone, faites un git pull (on ne sait jamais)
 - Lancez le serveur suivant votre configuration (windows -> EcoServer.exe, Linux -> EcoServer)
 - Pour un serveur sous linux certaines commandes en plus peuvent être nécessaires pour lancer le jeu (aller voir le doc fourni sur le site play.eco )
-# - Les paramètres du serveur ne devront en aucun cas être modifiés par vous-même. Si vous avez une demande ou suggestions, faites m'en part.
-- Vous pouvez maintenant vous connecter au serveur via le jeu ECO
+<span style="color:red"> - Les paramètres du serveur ne devront en aucun cas être modifiés par vous-même. Si vous avez une demande ou suggestions, faites m'en part.
+- Vous pouvez maintenant vous connecter au serveur via le jeu ECO </span>
 - 
 ## Comment jouer avec ses amis
 - Pour les personnes qui veulent jouer avec vous, elles peuvent vous rejoindre directement si vous êtes amis sur steam (bouton "Rejoindre la partie" en cliquant sur votre profil)
 
 ## Quelque règle en plus
 - Ce serveur est avant tout là pour appréhender les nouveautés des mises à jour, pour pourquoi pas plus tard avoir un vrai serveur de jeu
-# - Ne détruisez pas les bâtiments déjà construits ! 
-# - Nous sommes dans un système communiste pour l'instant. Donc ma maison est aussi ta maison. L'attribution d'une parcelle personnelle est formellement interdite sinon Goulag !
+<span style="color:red"> - Ne détruisez pas les bâtiments déjà construits !  </span>
+<span style="color:red"> - Nous sommes dans un système communiste pour l'instant. Donc ma maison est aussi ta maison. L'attribution d'une parcelle personnelle est formellement interdite sinon Goulag ! </span>
 - Une économie pourra à terme être construite mais on verra ça plus tard
 - Peut-être qu'on évoluera vers un système capitaliste/libéral mais ce n'est pas le but du serveur 
 
