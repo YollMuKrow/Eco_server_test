@@ -2,7 +2,7 @@
 ## 1 - Toujours pull quand vous voulez jouer sur la save en solo 
 ## 2 - Quand l'Host du serveur par avant vous, attendez qu'il push la sauvegarde et choisissez qui va host la prochaine.
 ## 3 - L' utilisation des commandes d'administrateur est autorisée que pour pâlir à certains bugs (perte d'objet, bug de collision, ...). Tout abus sera sanctionné par un avertissement puis un ban si récidive.
-## 4 - Ne mettez jamais de fichiers temporaire sur le git (c'est pas propre et ça peut causer des problèmes) 
+## 4 - Ne mettez jamais des fichiers temporaires sur le git (ce n'est pas propre et ça peut causer des problèmes) 
 
 # Comment Host une partie
 Pour host une partie, vous devez faire un git clone du serveur (Des versions de Git pour windows sont disponibles)
