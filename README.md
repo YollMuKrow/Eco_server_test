@@ -7,6 +7,7 @@
 # Comment Host une partie
 Pour host une partie, vous devez faire un git clone du serveur (Des versions de Git pour windows sont disponibles)
 - Une fois le projet clone, faites un git pull (on ne sait jamais)
+- Vous devrez également ajouter manuellement les 2 fichiers .exe pour pouvoir lancer le serveur. (Ils sont disponibles sur le site play.eco ou dans le répertoire ../steamapps/common/eco/Eco_data/Server/)
 - Lancez le serveur suivant votre configuration (windows -> EcoServer.exe, Linux -> EcoServer)
 - Pour un serveur sous linux certaines commandes en plus peuvent être nécessaires pour lancer le jeu (aller voir le doc fourni sur le site play.eco )
 - **Les paramètres du serveur ne devront en aucun cas être modifiés par vous-même. Si vous avez une demande ou suggestions, faites m'en part.**
